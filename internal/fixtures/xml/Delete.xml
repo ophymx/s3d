@@ -1,0 +1,8 @@
+<Delete>
+    <Object>
+        <Key>sample1.txt</Key>
+    </Object>
+    <Object>
+        <Key>sample2.txt</Key>
+    </Object>
+</Delete>

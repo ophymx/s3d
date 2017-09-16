@@ -1,0 +1,8 @@
+<CORSConfiguration>
+    <CORSRule>
+        <AllowedOrigin>http://www.example.com</AllowedOrigin>
+        <AllowedMethod>GET</AllowedMethod>
+        <MaxAgeSeconds>3000</MaxAgeSeconds>
+        <ExposeHeader>x-amz-server-side-encryption</ExposeHeader>
+    </CORSRule>
+</CORSConfiguration>
